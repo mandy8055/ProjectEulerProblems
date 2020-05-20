@@ -14,7 +14,7 @@ public class Problem4 {
         System.out.print(largestPalindrome);
     }*/
 
-//    Enhanced Solution --> Analyse
+//    Enhanced Solution --> Analyse once
       public static void main(String[] args){
           int largestPalindrome = 0;
           int incrementValue;
